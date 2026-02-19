@@ -2,7 +2,8 @@ function startRotatingText() {
     const titles = [
         "Game Developer",
         "Fullstack Developer",
-        "Software Engineer"
+        "Software Engineer",
+        "Gamer",
     ];
 
     const rotatingTextElement = document.querySelector('.rotating-text');
