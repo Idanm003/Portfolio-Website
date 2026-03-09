@@ -1,8 +1,8 @@
 function startRotatingText() {
     const titles = [
-        "Game Developer",
-        "Fullstack Developer",
         "Software Engineer",
+        "Fullstack Developer",
+        "Game Developer",
         "Gamer",
     ];
 
